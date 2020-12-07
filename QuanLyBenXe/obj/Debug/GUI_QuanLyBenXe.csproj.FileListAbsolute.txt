@@ -6,3 +6,5 @@ D:\HK3\LTUD\project\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
 D:\HK3\LTUD\project\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
 D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
 D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+D:\Project_Winform\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+D:\Project_Winform\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
