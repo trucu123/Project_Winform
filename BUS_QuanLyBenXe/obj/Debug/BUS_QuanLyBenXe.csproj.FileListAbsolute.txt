@@ -1,0 +1,11 @@
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.csprojAssemblyReference.cache
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\bin\Debug\BUS_QuanLyBenXe.dll
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\bin\Debug\BUS_QuanLyBenXe.pdb
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\bin\Debug\DAL_QuanLyBenXe.dll
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\bin\Debug\ET_QuanLyBenXe.dll
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\bin\Debug\DAL_QuanLyBenXe.pdb
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\bin\Debug\ET_QuanLyBenXe.pdb
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.csproj.CopyComplete
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.dll
+D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.pdb

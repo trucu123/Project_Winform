@@ -1,0 +1,5 @@
+D:\NhomLay\BUS_NhanVien\bin\Debug\BUS_NhanVien.dll
+D:\NhomLay\BUS_NhanVien\bin\Debug\BUS_NhanVien.pdb
+D:\NhomLay\BUS_NhanVien\obj\Debug\BUS_NhanVien.csprojResolveAssemblyReference.cache
+D:\NhomLay\BUS_NhanVien\obj\Debug\BUS_NhanVien.dll
+D:\NhomLay\BUS_NhanVien\obj\Debug\BUS_NhanVien.pdb

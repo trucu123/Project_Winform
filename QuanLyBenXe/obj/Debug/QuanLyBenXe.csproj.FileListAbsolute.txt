@@ -1,0 +1,7 @@
+D:\NhomLay\QuanLyBenXe\bin\Debug\QuanLyBenXe.exe
+D:\NhomLay\QuanLyBenXe\bin\Debug\QuanLyBenXe.pdb
+D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.csprojResolveAssemblyReference.cache
+D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.csproj.GenerateResource.Cache
+D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb

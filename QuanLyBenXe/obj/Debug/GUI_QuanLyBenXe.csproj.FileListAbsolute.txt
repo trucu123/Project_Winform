@@ -1,0 +1,8 @@
+D:\HK3\LTUD\project\NhomLay\QuanLyBenXe\obj\Debug\GUI_QuanLyBenXe.csprojAssemblyReference.cache
+D:\HK3\LTUD\project\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.Properties.Resources.resources
+D:\HK3\LTUD\project\NhomLay\QuanLyBenXe\obj\Debug\GUI_QuanLyBenXe.csproj.GenerateResource.cache
+D:\HK3\LTUD\project\NhomLay\QuanLyBenXe\obj\Debug\GUI_QuanLyBenXe.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\project\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+D:\HK3\LTUD\project\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb
+D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.exe
+D:\NhomLay\QuanLyBenXe\obj\Debug\QuanLyBenXe.pdb

@@ -1,0 +1,6 @@
+D:\HK3\LTUD\project\NhomLay\DAL_QuanLyBenXe\obj\Debug\DAL_QuanLyBenXe.csprojAssemblyReference.cache
+D:\HK3\LTUD\project\NhomLay\DAL_QuanLyBenXe\obj\Debug\DAL_QuanLyBenXe.csproj.CoreCompileInputs.cache
+D:\HK3\LTUD\project\NhomLay\DAL_QuanLyBenXe\bin\Debug\DAL_QuanLyBenXe.dll
+D:\HK3\LTUD\project\NhomLay\DAL_QuanLyBenXe\bin\Debug\DAL_QuanLyBenXe.pdb
+D:\HK3\LTUD\project\NhomLay\DAL_QuanLyBenXe\obj\Debug\DAL_QuanLyBenXe.dll
+D:\HK3\LTUD\project\NhomLay\DAL_QuanLyBenXe\obj\Debug\DAL_QuanLyBenXe.pdb
