@@ -16,14 +16,21 @@ namespace QuanLyBenXe
             InitializeComponent();
         }
 
-        private void label5_Click(object sender, EventArgs e)
+        private void GUI_ThongTinNhanVien_Load(object sender, EventArgs e)
         {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
+            this.label1.Parent = this.pictureBox1;
+            this.label2.Parent = this.pictureBox1;
+            this.label3.Parent = this.pictureBox1;
+            this.label4.Parent = this.pictureBox1;
+            this.label5.Parent = this.pictureBox1;
+            this.label6.Parent = this.pictureBox1;
+            this.label7.Parent = this.pictureBox1;
+            this.label8.Parent = this.pictureBox1;
+            this.label9.Parent = this.pictureBox1;
+            this.btnThem.Parent = this.pictureBox1;
+            this.btnXoa.Parent = this.pictureBox1;
+            this.btnSua.Parent = this.pictureBox1;
+            this.btnThoat.Parent = this.pictureBox1;
         }
     }
 }

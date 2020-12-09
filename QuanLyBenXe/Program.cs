@@ -15,7 +15,7 @@ namespace QuanLyBenXe
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GUI_ChuXe());
+            Application.Run(new GUI_ThongTinNhanVien());
         }
     }
 }

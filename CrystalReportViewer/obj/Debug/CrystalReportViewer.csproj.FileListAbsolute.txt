@@ -1,0 +1,9 @@
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\bin\Debug\CrystalReportViewer.exe.config
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\bin\Debug\CrystalReportViewer.exe
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\bin\Debug\CrystalReportViewer.pdb
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\obj\Debug\CrystalReportViewer.csprojResolveAssemblyReference.cache
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\obj\Debug\CrystalReportViewer.BaoCaoNhanVien.resources
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\obj\Debug\CrystalReportViewer.Properties.Resources.resources
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\obj\Debug\CrystalReportViewer.csproj.GenerateResource.Cache
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\obj\Debug\CrystalReportViewer.exe
+C:\Users\TZUYU\Desktop\Project_Winform\CrystalReportViewer\obj\Debug\CrystalReportViewer.pdb

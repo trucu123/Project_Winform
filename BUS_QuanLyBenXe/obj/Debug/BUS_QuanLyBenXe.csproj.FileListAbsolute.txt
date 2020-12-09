@@ -9,3 +9,12 @@ D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\bin\Debug\ET_QuanLyBenXe.pdb
 D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.csproj.CopyComplete
 D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.dll
 D:\HK3\LTUD\project\NhomLay\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.pdb
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\bin\Debug\BUS_QuanLyBenXe.dll
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\bin\Debug\BUS_QuanLyBenXe.pdb
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\bin\Debug\DAL_QuanLyBenXe.dll
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\bin\Debug\ET_QuanLyBenXe.dll
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\bin\Debug\DAL_QuanLyBenXe.pdb
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\bin\Debug\ET_QuanLyBenXe.pdb
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.csprojResolveAssemblyReference.cache
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.dll
+C:\Users\TZUYU\Desktop\Project_Winform\BUS_QuanLyBenXe\obj\Debug\BUS_QuanLyBenXe.pdb

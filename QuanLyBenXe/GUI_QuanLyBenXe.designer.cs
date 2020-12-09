@@ -31,13 +31,13 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GUI_QuanLyBenXe));
             this.mnuQuanLy = new System.Windows.Forms.MenuStrip();
             this.chứcNăngChínhToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.nhânViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hóaĐơnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.xeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lệnhXuấtBếnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.phiếuĐăngTảiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýVéToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýTuyếnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.nhânViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýChủXeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýPhòngBanToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýLươngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -82,6 +82,12 @@
             this.chứcNăngChínhToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
             this.chứcNăngChínhToolStripMenuItem.Text = "Quản Lý Bến Xe";
             // 
+            // nhânViênToolStripMenuItem
+            // 
+            this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
+            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
+            this.nhânViênToolStripMenuItem.Text = "Quản Lý Nhân Viên";
+            // 
             // hóaĐơnToolStripMenuItem
             // 
             this.hóaĐơnToolStripMenuItem.Name = "hóaĐơnToolStripMenuItem";
@@ -117,12 +123,6 @@
             this.quảnLýTuyếnToolStripMenuItem.Name = "quảnLýTuyếnToolStripMenuItem";
             this.quảnLýTuyếnToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.quảnLýTuyếnToolStripMenuItem.Text = "Quản Lý Tuyến";
-            // 
-            // nhânViênToolStripMenuItem
-            // 
-            this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
-            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-            this.nhânViênToolStripMenuItem.Text = "Quản Lý Nhân Viên";
             // 
             // quảnLýChủXeToolStripMenuItem
             // 
@@ -177,7 +177,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            //this.pictureBox1.Image = global::QuanLyBenXe.Properties.Resources._145648_ben_xe_mien_dong;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(0, 24);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(570, 325);

@@ -1,6 +1,6 @@
-﻿namespace ET_QuanLyBenXe
+﻿namespace CrystalReportViewer
 {
-    partial class vidu
+    partial class BaoCaoNhanVien
     {
         /// <summary>
         /// Required designer variable.
@@ -28,11 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // BaoCaoNhanVien
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "vidu";
+            this.ClientSize = new System.Drawing.Size(697, 340);
+            this.Name = "BaoCaoNhanVien";
+            this.Text = "Báo Cáo Nhân Viên";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
     }
 }
+

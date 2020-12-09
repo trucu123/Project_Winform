@@ -4,3 +4,8 @@ D:\HK3\LTUD\project\NhomLay\ET_QuanLyBenXe\obj\Debug\ET_QuanLyBenXe.csprojAssemb
 D:\HK3\LTUD\project\NhomLay\ET_QuanLyBenXe\obj\Debug\ET_QuanLyBenXe.csproj.CoreCompileInputs.cache
 D:\HK3\LTUD\project\NhomLay\ET_QuanLyBenXe\obj\Debug\ET_QuanLyBenXe.dll
 D:\HK3\LTUD\project\NhomLay\ET_QuanLyBenXe\obj\Debug\ET_QuanLyBenXe.pdb
+C:\Users\TZUYU\Desktop\Project_Winform\ET_QuanLyBenXe\bin\Debug\ET_QuanLyBenXe.dll
+C:\Users\TZUYU\Desktop\Project_Winform\ET_QuanLyBenXe\bin\Debug\ET_QuanLyBenXe.pdb
+C:\Users\TZUYU\Desktop\Project_Winform\ET_QuanLyBenXe\obj\Debug\ET_QuanLyBenXe.csprojResolveAssemblyReference.cache
+C:\Users\TZUYU\Desktop\Project_Winform\ET_QuanLyBenXe\obj\Debug\ET_QuanLyBenXe.dll
+C:\Users\TZUYU\Desktop\Project_Winform\ET_QuanLyBenXe\obj\Debug\ET_QuanLyBenXe.pdb

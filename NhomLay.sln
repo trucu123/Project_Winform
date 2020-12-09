@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ET_QuanLyBenXe", "ET_QuanLy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_QuanLyBenXe", "DAL_QuanLyBenXe\DAL_QuanLyBenXe.csproj", "{22F52AAC-C857-4BB6-BBCA-CDE557216D4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalReportViewer", "CrystalReportViewer\CrystalReportViewer.csproj", "{A98D26F3-672A-4F9A-B8D2-C093EEE04343}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{22F52AAC-C857-4BB6-BBCA-CDE557216D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F52AAC-C857-4BB6-BBCA-CDE557216D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F52AAC-C857-4BB6-BBCA-CDE557216D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98D26F3-672A-4F9A-B8D2-C093EEE04343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98D26F3-672A-4F9A-B8D2-C093EEE04343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98D26F3-672A-4F9A-B8D2-C093EEE04343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98D26F3-672A-4F9A-B8D2-C093EEE04343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

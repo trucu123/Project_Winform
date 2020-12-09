@@ -15,5 +15,16 @@ namespace QuanLyBenXe
         {
             InitializeComponent();
         }
+
+        private void GUI_ChucVu_Load(object sender, EventArgs e)
+        {
+            this.label1.Parent = this.pictureBox1;
+            this.label5.Parent = this.pictureBox1;
+            this.btnThem.Parent = this.pictureBox1;
+            this.btnXoa.Parent = this.pictureBox1;
+            this.btnSua.Parent = this.pictureBox1;
+            this.btnThoat.Parent = this.pictureBox1;
+
+        }
     }
 }

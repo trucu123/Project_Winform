@@ -5,13 +5,14 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ET_QuanLyBenXe
+namespace CrystalReportViewer
 {
-    public partial class fgfgfgf : Form
+    public partial class BaoCaoNhanVien : Form
     {
-        public fgfgfgf()
+        public BaoCaoNhanVien()
         {
             InitializeComponent();
         }
